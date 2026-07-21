@@ -13,3 +13,5 @@
 - Use ES6.
 - Use Conventional Commits.
 - Write clean and reusable code.
+
+- Prefer meaningful variable names.
