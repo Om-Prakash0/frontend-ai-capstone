@@ -12,3 +12,5 @@ This repository is created for the FlyRank Frontend AI Engineering Internship.
 ## Goal
 
 Learn AI-assisted frontend development.
+
+Repository created for FlyRank AI Internship.
